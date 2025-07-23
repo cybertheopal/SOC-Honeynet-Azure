@@ -124,7 +124,7 @@ All map queries returned no results due to no instances of malicious activity fo
 
 ![closed system.drawio.png](./docs/closed_system.drawio.png)
 
-![image.png](https://github.com/cybertheopal/SOC-Honeynet-Azure/blob/main/docs/Report%20Malicious%20Payload.md.png)
+![image.png](.docs/reports/Report%20Malicious%20Payload.md.png)
 
 ---
 
