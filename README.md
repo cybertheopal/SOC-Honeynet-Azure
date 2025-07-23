@@ -144,4 +144,4 @@ All map queries returned no results due to no instances of malicious activity fo
 
 ## **Additional Resources**
 
-- [View the Full Incident Report](.docs/reports/Report%20Malicious%20Payload.md)
+- [View the Full Incident Report](.docs/Report%20Malicious%20Payload.md)
